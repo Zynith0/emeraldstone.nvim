@@ -2,7 +2,7 @@ local M = {}
 
 function M.setup()
 	local colors = {
-		bg = "#01161c",
+		bg = "#03140f",
 		fg = "#bcd4d3",
 		red = "#c75b71",
 		green = "#4ce0b6",
